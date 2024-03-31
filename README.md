@@ -12,12 +12,11 @@
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=Mailgun&logoColor=white)](mailto:1321968523@qq.com)
 [![Blog](https://img.shields.io/badge/-Blog-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.mulingyuer.com/)
 
-<br/>
-<br/>
-
-<div>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mulingyuer&show_icons=true&theme=ambient_gradient&hide_title=true)](https://github.com/mulingyuer)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulingyuer&layout=compact&theme=calm_pink)](https://github.com/mulingyuer)
-
+<div style="display: flex; flex-wrap: wrap">
+  <a style="flex-grow: 1" href="https://github.com/mulingyuer" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=mulingyuer&show_icons=true&theme=ambient_gradient&hide_title=true" alt="mulingyuer" />
+  </a>
+  <a style="flex-grow: 1" href="https://github.com/mulingyuer" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulingyuer&layout=compact&theme=calm_pink" alt="mulingyuer" />
+  </a>
 </div>
