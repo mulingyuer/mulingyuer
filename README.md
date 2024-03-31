@@ -15,11 +15,5 @@
 <br/>
 <br/>
 
-<div style="display: flex; flex-wrap: wrap">
-  <a style="flex-grow: 1" href="https://github.com/mulingyuer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=mulingyuer&show_icons=true&theme=ambient_gradient&hide_title=true" alt="mulingyuer" />
-  </a>
-  <a style="flex-grow: 1" href="https://github.com/mulingyuer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulingyuer&layout=compact&theme=calm_pink" alt="mulingyuer" />
-  </a>
-</div>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mulingyuer&show_icons=true&theme=ambient_gradient&hide_title=true)](https://github.com/mulingyuer)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulingyuer&layout=compact&theme=calm_pink)](https://github.com/mulingyuer)
