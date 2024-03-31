@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
