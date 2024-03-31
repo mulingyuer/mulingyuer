@@ -12,16 +12,14 @@
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=Mailgun&logoColor=white)](mailto:1321968523@qq.com)
 [![Blog](https://img.shields.io/badge/-Blog-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.mulingyuer.com/)
 
-## GitHub stats
+<br/>
+<br/>
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulingyuer&show_icons=true&theme=ambient_gradient&hide_title=true)](https://github.com/mulingyuer) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulingyuer&layout=compact&theme=calm_pink)](https://github.com/mulingyuer) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-#### Top Repositories
-
-| [![Typecho_Theme_JJ](https://github-readme-stats.vercel.app/api/pin/?username=mulingyuer&repo=Typecho_Theme_JJ)](https://github.com/mulingyuer/Typecho_Theme_JJ)                   | [![Typecho_Plugin_JJEditor](https://github-readme-stats.vercel.app/api/pin/?username=mulingyuer&repo=Typecho_Plugin_JJEditor)](https://github.com/mulingyuer/Typecho_Plugin_JJEditor) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![webpack-multiple-entry](https://github-readme-stats.vercel.app/api/pin/?username=mulingyuer&repo=webpack-multiple-entry)](https://github.com/mulingyuer/webpack-multiple-entry) | [![website-screenshot](https://github-readme-stats.vercel.app/api/pin/?username=mulingyuer&repo=website-screenshot)](https://github.com/mulingyuer/website-screenshot)                |
-
-<br />
-<br />
+<div style="display: flex; flex-wrap: wrap">
+  <a style="flex-grow: 1" href="https://github.com/mulingyuer" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=mulingyuer&show_icons=true&theme=ambient_gradient&hide_title=true" alt="mulingyuer" />
+  </a>
+  <a style="flex-grow: 1" href="https://github.com/mulingyuer" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulingyuer&layout=compact&theme=calm_pink" alt="mulingyuer" />
+  </a>
+</div>
